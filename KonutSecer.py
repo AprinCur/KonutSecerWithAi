@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 """
+This project is an artificial intelligence model designed to predict the affordability of a residential property based on user-provided inputs.
+The model has been developed and tested using a sample dataset consisting of 30 data points, serving as a proof of concept for AI-based housing affordability analysis.
 Accuracy Rate = %60
 """
 
